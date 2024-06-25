@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://teixeirabrenno.github.io/qrcode-project/)
+- Live Site URL: [https://teixeirabrenno.github.io/qrcode-project/](https://teixeirabrenno.github.io/qrcode-project/)
 
 ## My process
 
